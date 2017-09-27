@@ -1,0 +1,4 @@
+{
+    "WebApiBaseUrl": "http://myWebApi.com/uat",
+    "EnableConsoleLogging": true
+}
